@@ -85,3 +85,7 @@
 ## 联系
 
  <img src="./images/image.png" width = "300" height = "300" alt="群二维码" align=center />
+
+## 感谢
+
+感谢[LangChain](https://github.com/hwchase17/langchainjs) 提供了很多方便的工具，让这个项目得以实现！
